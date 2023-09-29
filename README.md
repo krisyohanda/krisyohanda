@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krisyohanda&label=Profile%20views&color=0e75b6&style=flat" alt="krisyohanda" /> </p>
 ## About Me
 
 - 🌱 I'm currently studying Technology Information at the University of Lambung Mangkurat.
